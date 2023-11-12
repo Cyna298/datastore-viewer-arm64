@@ -1,4 +1,9 @@
+### This fork updates the Dockerfile to build for Apple Silicon
+
+
 # datastore-viewer
+
+
 
 datastore-viewer is a simple viewer of Google Cloud Datastore Emulator.
 
